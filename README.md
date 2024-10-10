@@ -7,9 +7,9 @@
 
 - **Installation**: The installer supports with parameters for tracking affiliates via affid and subid.
 - **Custom Installer**: The project includes a custom installer with an icon, desktop shortcuts, and automatic launch after installation.
-- **Cross-Platform Deployment**: Ghostscript.
+- **Libraries in use:**: Ghostscript.
 
-## Prerequisites
+## Prerequisites for compilation
 
 - **Ghostscript**: Ensure that Ghostscript SDK is installed.
 
@@ -24,7 +24,7 @@
 7. After run `Installer.iss` you can find the install file (.exe) on `PdfShrinker/Installers`.
 
 
-## Installation
+## End user installation
 
 1. End users will get the exe file in the `PdfShrinker/Installers` folder.
 2. Run the installer. (silent installation).
