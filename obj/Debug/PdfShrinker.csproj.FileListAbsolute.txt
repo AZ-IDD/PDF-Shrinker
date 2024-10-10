@@ -1,0 +1,5 @@
+D:\Users\amr2\Downloads\PdfShrinker-master\PdfShrinker\obj\Debug\PdfShrinker.csproj.AssemblyReference.cache
+D:\Users\amr2\Downloads\PdfShrinker-master\PdfShrinker\obj\Debug\PdfShrinker.frmMain.resources
+D:\Users\amr2\Downloads\PdfShrinker-master\PdfShrinker\obj\Debug\PdfShrinker.Properties.Resources.resources
+D:\Users\amr2\Downloads\PdfShrinker-master\PdfShrinker\obj\Debug\PdfShrinker.csproj.GenerateResource.cache
+D:\Users\amr2\Downloads\PdfShrinker-master\PdfShrinker\obj\Debug\PdfShrinker.csproj.CoreCompileInputs.cache
