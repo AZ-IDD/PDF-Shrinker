@@ -7,7 +7,7 @@
 
 - **Installation**: The installer supports with parameters for tracking affiliates via affid and subid.
 - **Custom Installer**: The project includes a custom installer with an icon, desktop shortcuts, and automatic launch after installation.
-- **Cross-Platform Deployment**: Utilizes .NET 8.0 for building the application with Windows WPF support.
+- **Cross-Platform Deployment**: Ghostscript.
 
 ## Prerequisites
 
