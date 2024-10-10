@@ -30,7 +30,7 @@
 2. Run the installer. (silent installation).
 3. The application will automatically launch after installation and a thank you page will be opened in a browser.
 4. Users will also be able to run the app at any time via a shortcut on their desktop.
-5. The file `PdfShrinker` will be installed in folder .
+5. Users will be prompted to choose in which folder `PdfShrinker` to install the app. .
 
 
 
