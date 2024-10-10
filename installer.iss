@@ -72,7 +72,7 @@ begin
       MsgBox(Msg, mbError, MB_OK);
     end;
   
-    Path := ExpandConstant('{app}\PdfShrinker.exee');
+    Path := ExpandConstant('{app}\PdfShrinker.exe');
     if ExecAsOriginalUser(Path, '', '', SW_SHOW, ewNoWait, ResultCode) then
     begin
       Log('Executed MyProg');
