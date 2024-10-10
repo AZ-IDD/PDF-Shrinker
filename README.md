@@ -1,5 +1,5 @@
 ## Links
-[Last installer file](https://drive.google.com/file/d/1K1kzolCgiBbNO-_71A5ozc5-SFYlVwMo/view)
+[Last installer file & bin folder ](https://drive.google.com/drive/folders/1EEy2rzZw--ag5PKtAgoubQoeMGxaxUZQ?usp=sharing)
 
 
 
